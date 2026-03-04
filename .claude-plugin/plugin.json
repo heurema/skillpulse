@@ -1,0 +1,16 @@
+{
+  "name": "skillpulse",
+  "version": "0.1.0",
+  "description": "Skill activation logging for emporium ecosystem",
+  "author": {
+    "name": "heurema"
+  },
+  "homepage": "https://github.com/heurema/skillpulse",
+  "repository": "https://github.com/heurema/skillpulse",
+  "license": "MIT",
+  "type": "marketplace",
+  "keywords": [],
+  "status": "alpha",
+  "owner": "heurema",
+  "tags": ["devtools"]
+}
