@@ -1,10 +1,21 @@
-# Skillpulse
+```
+         __   _ ____            __
+   _____/ /__(_) / /___  __  __/ /_______
+  / ___/ //_/ / / / __ \/ / / / / ___/ _ \
+ (__  ) ,< / / / / /_/ / /_/ / (__  )  __/
+/____/_/|_/_/_/_/ .___/\__,_/_/____/\___/
+               /_/
+```
 
-> Skill telemetry for Claude Code -- track what your skills actually do
+**Skill telemetry for Claude Code.**
 
 [![Claude Code Plugin](https://img.shields.io/badge/Claude_Code-plugin-5b21b6?style=flat-square)](https://skill7.dev)
 [![Version](https://img.shields.io/badge/version-0.1.0-5b21b6?style=flat-square)]()
-[![License](https://img.shields.io/badge/license-MIT-5b21b6?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+> Track what your skills actually do.
+
+---
 
 ## The problem
 
